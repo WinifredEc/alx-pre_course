@@ -1,1 +1,1 @@
-My first readme
+Hi, I'm Winifred, and i am a Software Engineer
